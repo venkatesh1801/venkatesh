@@ -14,7 +14,7 @@ With a strong foundation in Power BI, SQL, Python, and Excel, I thrive on creati
 
 
 ## 🔗 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/venkatesh-tohgaonkar-0ba0991b7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]https://www.linkedin.com/in/venkatesh-tohgaonkar-0ba0991b7/  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/tohgaonkarvenkatesh)
 
 
